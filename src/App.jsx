@@ -10,6 +10,7 @@ class App extends React.Component {
     this.reviewIp = 'http://localhost:3004';
   }
 
+  //chagnes for git push for route change?
   loadScript(ipname, param) {
     const script = document.createElement("script");
     script.src = `${ipname}${param}`;

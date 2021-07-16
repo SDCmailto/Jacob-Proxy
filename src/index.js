@@ -4,3 +4,5 @@ import App from './App';
 import './styles.css';
 //Put the IPs in here to pass as props
 ReactDOM.render(<App />, document.body);
+
+//changes for git push? 
