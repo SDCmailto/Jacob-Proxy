@@ -15,7 +15,7 @@ const sendIndex = (req, res) => {
 
 app.get('/user_image.png', (req, res) => {
   let status = 200;
-  let response = request(`http://${dotenv.parsed.REVIEW_IP}:3004/user_image.png`);
+  let response = request(`http://localhost:3004/user_image.png`);
   response.on('error', console.error);
   response.on('response', data => data.pipe(res));
 });

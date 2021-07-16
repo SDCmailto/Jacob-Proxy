@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = function() {
   return (
     <footer className="navLeftFooter nav-sprite-v1" id="navFooter">
-    <a href="#nav-top" id="navBackToTop" aria-label="Back to top">
+    <a href="#nav-top" id="navBackToTop" role="footer">
       <div className="navFooterBackToTop">
         <span className="navFooterBackToTopText">
           Back to top
