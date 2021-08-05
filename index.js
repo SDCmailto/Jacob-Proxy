@@ -29,5 +29,5 @@ app.get('/*.js', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Proxy listening at http://localhost:${port}`);
+  console.log(`Proxy listening at http://52.53.167.132/${port}`);
 });

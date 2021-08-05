@@ -5,7 +5,7 @@ class App extends React.Component {
   constructor (props) {
     super(props);
     this.infoIp = 'http://localhost:3001';
-    this.overviewIp = 'http://localhost:5984';
+    this.overviewIp = 'http://13.57.226.202:5984';
     this.galleryIp = 'http://localhost:3003';
     this.reviewIp = 'http://localhost:3004';
   }
