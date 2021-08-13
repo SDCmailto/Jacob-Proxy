@@ -7,7 +7,7 @@ class App extends React.Component {
     this.infoIp = 'http://18.118.36.172:3000';
     this.overviewIp = 'http://54.151.82.224:80';
     this.galleryIp = 'http://13.57.239.189:80';
-    this.reviewIp = 'http://localhost:3004';
+    this.reviewIp = 'http://3.16.203.185:3004';
   }
 
   //chagnes for git push for route change?
@@ -22,7 +22,7 @@ class App extends React.Component {
     this.loadScript(this.infoIp, '/information.js');
     this.loadScript(this.overviewIp, '/overview.js');
     this.loadScript(this.galleryIp, '/gallery.js');
-    this.loadScript(this.reviewIp, 'public/customerreviews.js');
+    this.loadScript(this.reviewIp, '/customerreviews.js');
   }
 
   render() {
