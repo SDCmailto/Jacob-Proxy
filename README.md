@@ -1,21 +1,24 @@
 # System Design Capstone Project
 
-## A team of me and 3 other people added a backend to a prototype front end project (Front End Capstone Project Described Below) that another team had built
+## A team of me and 3 other people added a backend to a prototype front end project (Front End Capstone Project Described Below)
 ## The backend that I built had the following attributes:
 
-### Postgres Database
-### Roughly 90 million records
-### Deployment using EC2 instances
-### GET JSON data for 300 clients per second at 64 ms per request (deployed)
-### Nginx load balancing (with multiple deployed EC2 instances)
-### Memcached caching of Postgres data
+### * Postgres Database
+### * Roughly 90 million records
+### * Deployment using EC2 instances
+### * GET JSON data for 300 clients per second at 64 ms per request (deployed)
+### * Nginx load balancing (with multiple deployed EC2 instances)
+### * Memcached caching of Postgres data
 
 
 <a href="url"><img src="systemDesign.png" align="left" height="500px" width="700px"></a>
 
+<a href="url"><img src="64ms_loader.io.png" align="left" height="500px" width="700px"></a>
 
-> Reverse proxy to combine all of our services!
 
+
+
+<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # Front End Capstone Project
 ![Proxy Image](/proxy%20deployed.PNG)
