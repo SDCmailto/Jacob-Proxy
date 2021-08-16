@@ -1,0 +1,12 @@
+cd /etc/nginx/sites-available
+
+service nginx status
+sudo lsof -i TCP:80
+
+sudo nginx -t
+
+pwd for path
+
+sudo nginx -s reload
+
+proxy_cache my_cache;
