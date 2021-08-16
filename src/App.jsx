@@ -4,7 +4,7 @@ import Footer from './Footer.jsx';
 class App extends React.Component {
   constructor (props) {
     super(props);
-    this.infoIp = 'http://18.118.36.172:3000';
+    this.infoIp = 'http://18.118.36.172:9999';
     this.overviewIp = 'http://54.151.82.224:80';
     this.galleryIp = 'http://13.57.239.189:80';
     this.reviewIp = 'http://3.16.203.185:3004';

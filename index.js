@@ -32,7 +32,7 @@ app.get('/user_image.png', (req, res) => {
   response.on('error', console.error);
   response.on('response', data => data.pipe(res));
 });
-app.get('/overview/:productId', (req, res) => {fetch('http://54.151.82.224/overview/' + req.params.productId).then(res => res.text()).then(body => res.send(body))});
+app.get('/overview/:productId', (req, res) => {fetch('http://54.151.82.224/overview/' + req.params.productId).then(res => res.text()).then(body =>  res.send(body))});
 //app.get('/overview/:productID', proxy('http://example.com'));
 app.get('/:productId', sendIndex);
 //app.post('/overview', proxy('http://54.67.112.217:5984/overview'));
