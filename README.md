@@ -11,16 +11,16 @@
 ### * Memcached caching of Postgres data
 
 
-<a href="url"><img src="systemDesign.png" align="left" height="500px" width="700px"></a>
+<a href="url"><img src="systemDesign.png" align="left" height="400px" width="600px"></a>
 
-<a href="url"><img src="64ms_loader.io.png" align="left" height="500px" width="700px"></a>
-
-
+<a href="url"><img src="64ms_loader.io.png" align="left" height="400px" width="600px"></a>
 
 
-<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-# Front End Capstone Project
+
+<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Front End Capstone Project
 ![Proxy Image](/proxy%20deployed.PNG)
 ## Related Projects
 
