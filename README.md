@@ -4,6 +4,7 @@
 ## The backend that I built had the following attributes:
 
 ### * Postgres Database
+### * Create, read, update, delete API
 ### * Roughly 90 million records
 ### * Deployment using EC2 instances
 ### * GET JSON data for 300 clients per second at 64 ms per request (deployed)
