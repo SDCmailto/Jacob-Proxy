@@ -1,4 +1,4 @@
-# System Design Capstone Project
+# System Design Capstone Application
 
 ## Scaled backend of a front end prototype application to handle 10 million primary records 80 million secondary records
 
