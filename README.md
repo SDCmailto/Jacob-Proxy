@@ -1,15 +1,15 @@
 # System Design Capstone Project
 
-## A team of me and 3 other people added a backend to a prototype front end project (Front End Capstone Project Described Below)
-## The backend that I built had the following attributes:
+## Scaled backend of a front end prototype application to handle 10 million primary records 80 million secondary records
 
-### * GET Request: 600 clients per second, 77 ms per request, 0 % error rate(deployed)
-### * 90 million records
-### * Nginx load balancing (least connection) (with multiple deployed EC2 instances)
+## Project Specs:
+
+### * GET Request: 600 clients per second, 77 ms per request, 0 % error rate(deployed) (Loader.io testing)
+### * Nginx load balancing: least connection (with multiple deployed EC2 instances)
 ### * Postgres Database
 ### * Create, read, update, delete API
-### * Deployment using EC2 instances
-### * Memcached caching and Nginx caching
+### * Deployed using EC2 instances
+### * Memcached Nginx caching
 
 
 <a href="url"><img src="systemDesign.png" align="left" height="400px" width="600px"></a>
