@@ -5,16 +5,16 @@
 
 ### * Postgres Database
 ### * Create, read, update, delete API
-### * Roughly 90 million records
+### *  90 million records
 ### * Deployment using EC2 instances
-### * GET JSON data for 300 clients per second at 64 ms per request (deployed)
+### * GET JSON data for 600 clients per second at 77 ms per request, 0 % error rate(deployed)
 ### * Nginx load balancing (with multiple deployed EC2 instances)
 ### * Memcached caching of Postgres data
 
 
 <a href="url"><img src="systemDesign.png" align="left" height="400px" width="600px"></a>
 
-<a href="url"><img src="64ms_loader.io.png" align="left" height="400px" width="600px"></a>
+<a href="url"><img src="600rps.png" align="left" height="400px" width="600px"></a>
 
 
 
