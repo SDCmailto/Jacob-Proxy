@@ -3,13 +3,13 @@
 ## A team of me and 3 other people added a backend to a prototype front end project (Front End Capstone Project Described Below)
 ## The backend that I built had the following attributes:
 
+### * GET Request: 600 clients per second, 77 ms per request, 0 % error rate(deployed)
+### * 90 million records
+### * Nginx load balancing (least connection) (with multiple deployed EC2 instances)
 ### * Postgres Database
 ### * Create, read, update, delete API
-### *  90 million records
 ### * Deployment using EC2 instances
-### * GET JSON data for 600 clients per second at 77 ms per request, 0 % error rate(deployed)
-### * Nginx load balancing (with multiple deployed EC2 instances)
-### * Memcached caching of Postgres data
+### * Memcached caching and Nginx caching
 
 
 <a href="url"><img src="systemDesign.png" align="left" height="400px" width="600px"></a>
