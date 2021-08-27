@@ -1,16 +1,5 @@
 # Mailto Application
 
-## Scaled backend of a front end prototype application to handle 10 million primary records and 80 million secondary records
-
-## Application Specs:
-
-### * GET Request: 600 clients per second, 77 ms per request, 0 % error rate(deployed) (Loader.io testing)
-### * Nginx load balancing: least connection (with multiple deployed EC2 instances)
-### * Postgres Database
-### * CRUD API
-### * Deployed using EC2 instances
-### * Memcached and Nginx caching
-
 <br/><br/>
 ## Initial System Architecture
 <a href="url"><img src="initialDesign.png" align="left" height="300px" width="500px"></a>
