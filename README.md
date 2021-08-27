@@ -12,7 +12,7 @@
 
 <br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br />
 
-# Front End Capstone Project
+# Front End Application
 ![Proxy Image](/proxy%20deployed.PNG)
 ## Related Projects
 
