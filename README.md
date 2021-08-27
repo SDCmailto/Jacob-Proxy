@@ -22,7 +22,7 @@
 
 
 
-<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br /><br /><br /><br /><br />
+<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br />
 
 # Front End Capstone Project
 ![Proxy Image](/proxy%20deployed.PNG)
