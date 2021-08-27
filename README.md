@@ -1,20 +1,22 @@
 # System Design Capstone Application
 
-## Scaled backend of a front end prototype application to handle 10 million primary records 80 million secondary records
+## Scaled backend of a front end prototype application to handle 10 million primary records and 80 million secondary records
 
-## Project Specs:
+## Application Specs:
 
 ### * GET Request: 600 clients per second, 77 ms per request, 0 % error rate(deployed) (Loader.io testing)
 ### * Nginx load balancing: least connection (with multiple deployed EC2 instances)
 ### * Postgres Database
-### * Create, read, update, delete API
+### * CRUD API
 ### * Deployed using EC2 instances
-### * Memcached Nginx caching
+### * Memcached and Nginx caching
 
+
+<a href="url"><img src="initialDesign.png" align="left" height="400px" width="600px"></a>
 
 <a href="url"><img src="systemDesign.png" align="left" height="400px" width="600px"></a>
 
-<a href="url"><img src="600rps.png" align="left" height="400px" width="600px"></a>
+
 
 
 
