@@ -13,12 +13,12 @@
 
 
 ## Initial System Architecture
-<a href="url"><img src="initialDesign.png" align="left" height="400px" width="600px"></a>
+<a href="url"><img src="initialDesign.png" align="left" height="300px" width="500px"></a>
 
 <br/><br/><br/><br/><br/>
 
 ## Final System Architecture
-<a href="url"><img src="systemDesign.png" align="left" height="400px" width="600px"></a>
+<a href="url"><img src="systemDesign.png" align="left" height="300px" width="500px"></a>
 
 
 
