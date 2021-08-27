@@ -1,6 +1,5 @@
 # Mailto Application
 
-<br/><br/>
 ## Initial System Architecture
 <a href="url"><img src="initialDesign.png" align="left" height="300px" width="500px"></a>
 
