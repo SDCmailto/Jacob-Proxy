@@ -1,4 +1,4 @@
-# System Design Capstone Application
+# Mailto Application
 
 ## Scaled backend of a front end prototype application to handle 10 million primary records and 80 million secondary records
 
@@ -22,10 +22,7 @@
 
 
 
-
-
-
-<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br /><br /><br /><br /><br />
 
 # Front End Capstone Project
 ![Proxy Image](/proxy%20deployed.PNG)
