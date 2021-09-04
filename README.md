@@ -1,5 +1,5 @@
 # Mailto Application
-## Scaled the backend of a prototype front end application
+## Scaled backend of a prototype front end application
 ## Initial System Architecture
 <a href="url"><img src="initialDesign.png" align="left" height="300px" width="500px"></a>
 
