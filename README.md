@@ -8,13 +8,15 @@
 ## Final System Architecture
 <a href="url"><img src="systemDesign.png" align="left" height="300px" width="500px"></a>
 
-<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br />
+<br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> 
 
 ### Deployed using EC2
 ### Tested with k6 and Loader.io
 ### 90 million records
 ### Final Stats: 600 rps throughput, 77 ms latency, 0% error rate 
 ### Express, React, PostgreSQL, NGINX
+
+<br /><br /><br /><br />
 
 # Front End Application
 ![Proxy Image](/proxy%20deployed.PNG)
