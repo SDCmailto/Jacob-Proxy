@@ -16,7 +16,7 @@
 ### Final Stats: 600 rps throughput, 77 ms latency, 0% error rate 
 ### Express, React, PostgreSQL, NGINX
 
-<br /><br /><br /><br />
+<br /><br />
 
 # Front End Application
 ![Proxy Image](/proxy%20deployed.PNG)
